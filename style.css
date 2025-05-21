@@ -70,7 +70,16 @@ div.list-container {
   font-size: 12px;
 }
 
+pre.shows {
+  font-size: 0.6rem;
+}
+
 @media screen and (min-width: 769px) and (max-width: 1400px) {
+
+pre.shows {
+  font-size: 1rem;
+}
+
   .glitch {
     font-size: 8px;
   }
